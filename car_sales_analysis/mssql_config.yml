@@ -1,0 +1,3 @@
+POSTGRES_CONFIG:
+  host: 'localhost'
+  dbname: 'cars'
