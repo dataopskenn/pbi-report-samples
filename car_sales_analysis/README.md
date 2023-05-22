@@ -1,7 +1,7 @@
 # Title: Power BI Report - Car Sales Analysis
 ## PACE Strategy Document
 
-## Plan:
+# Plan:
 
 ### Objective:
 The objective of this project is to create a comprehensive Power BI report that analyzes various aspects of car sales, including the total number of cars sold, total revenue generated, and average revenue, based on different factors such as car body type, car listing type, year of manufacture, car category, and car condition. Additionally, the report should incorporate different clusters based on "no cluster", "Total Sales", "Total Revenue", and "Average Revenue" for the cars.
@@ -32,7 +32,7 @@ The required data for this analysis will be sourced from the company's internal 
 - Car Condition
 
 
-## Analyze:
+# Analyze:
 
 ### Data Exploration:
 - Identify the available data sources and gather relevant information related to car sales.
@@ -45,7 +45,7 @@ The required data for this analysis will be sourced from the company's internal 
 - Determine the impact of different dimensions on sales and revenue.
 
 
-## Construct:
+# Construct:
 
 ### Data Modeling:
 - Transform and clean the data to ensure it is suitable for analysis.
@@ -63,7 +63,7 @@ The required data for this analysis will be sourced from the company's internal 
 - Implement dynamic features to enhance the user experience.
 
 
-## Execute:
+# Execute:
 
 ### Data Integration:
 - Extract the necessary data from the identified sources.
