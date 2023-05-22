@@ -1,5 +1,7 @@
 # Title: PACE Strategy Document - Car Sales Analysis Power BI Report
 
+# [Link to Report](https://app.powerbi.com/view?r=eyJrIjoiN2FmYzhlNTItYTg2My00MWVkLWFiMTktYWQwNTJhNDhhNmJmIiwidCI6IjliNTk3NjNmLTc2NDktNDM0Zi1iNGJmLWRmYTg3NGU4OGY4NyJ9)
+
 # Plan:
 
 ### Objective:
