@@ -1,4 +1,4 @@
-# Project: Power BI Report Design
+# Project: Business Performance and Regional/Country Sales Analysis (Power BI Report)
 
 ## Objective: <br>
 Create an official Power BI report that showcases the top 5 best-selling brands, countries, and products, analyzes brand and product performance based on customer feedback ratings and price ratings, performs regional profitability analysis, and includes year-on-year analysis using data from 2017 to 2019.
