@@ -1,5 +1,4 @@
-# Title: Power BI Report - Car Sales Analysis
-## PACE Strategy Document
+# Title: PACE Strategy Document - Car Sales Analysis Power BI Report
 
 # Plan:
 
