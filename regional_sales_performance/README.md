@@ -3,7 +3,7 @@ Comparing the sales performance of the different regions a business has made sal
 # E-commerce Sales Data Analysis
 
 ## Project Overview
-The objective of this project is to perform a comprehensive analysis of the sales data for [Company Name], an e-commerce company. The analysis will focus on comparing the "Percentage Gross Margin GM(%)" for the current year and the "Percentage Change in Net Sales" for the previous year against the "Sales" for the current year in USD. The analysis will be conducted across five distinct clusters: "All Clusters at the same time," "GM(%) Levels," "GM(%) Above/Below 0," "PY(%) Above/Below 0," as well as across different continents.
+The objective of this project is to perform a comprehensive analysis of the sales data for [Company Name], an e-commerce company. The analysis will focus on comparing the "Percentage Gross Margin GM(%)" for the current year and the "Percentage Change in Net Sales" for the previous year against the "Sales" for the current year in USD. The analysis will be conducted across five distinct clusters: "All Clusters at the same time", "GM(%) Levels", "GM(%) Above/Below 0", "PY(%) Above/Below 0" as well as across different continents.
 
 ## Framework Selection
 For the successful execution of this project, we will employ the PACE framework (Plan, Analyze, Construct, Execute). This framework provides a systematic approach to guide us through the various stages of the analysis process, ensuring efficient and effective results.
